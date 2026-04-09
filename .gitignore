@@ -1,0 +1,73 @@
+CLAUDE.md
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.python-version
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build / generated
+dist/
+build/
+site/
+coverage/
+.cache/
+tmp/
+temp/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+secrets/
+*.key
+*.pem
+
+# Logs
+*.log
+logs/
+
+# Data
+data/
+exports/
+artifacts/
+*.sqlite
+*.db
+
+# Obsidian / knowledge-workflow noise
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/workspace-mobile.json
+
+# Mac resource fork
+._*

@@ -185,6 +185,8 @@
   },
   "active": "2c8b9f824a67e35e",
   "lastOpenFiles": [
+    "README_zh.md",
+    "README_zh_The_Karpathy_Method.md",
     "wiki/卡帕西寶典 — 書籍設計.md",
     "README.md",
     "wiki/Eureka Labs.md",
@@ -218,8 +220,6 @@
     "CLAUDE.md",
     "raw/karpathy-bio.md.tmp.10168.1775714278471",
     "raw/assets",
-    "wiki/index.md",
-    "wiki/log.md",
-    "歡迎.md"
+    "wiki/index.md"
   ]
 }

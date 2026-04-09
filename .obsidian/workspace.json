@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "0550b9bf33bfb9fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "90ad2ab07d867b93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c8b9f824a67e35e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/卡帕西寶典 — 書籍設計.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "卡帕西寶典 — 書籍設計"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c24ede958a890ff8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4ed8edc6b1dde11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8b3cbe9819c2d1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "e65d28340b03cddf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "29c0dcea2377d2d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b6b99516f08fad60",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ffd1e0e18d41c7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e744c47305946004",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/卡帕西寶典 — 書籍設計.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "卡帕西寶典 — 書籍設計 的反向連結"
+            }
+          },
+          {
+            "id": "96aa07adda50f595",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/卡帕西寶典 — 書籍設計.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "卡帕西寶典 — 書籍設計 的對外連結"
+            }
+          },
+          {
+            "id": "bba28715797e8d68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "713cd62fe77370af",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "所有屬性"
+            }
+          },
+          {
+            "id": "3bf4cd187f6a7f41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/卡帕西寶典 — 書籍設計.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "卡帕西寶典 — 書籍設計 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false
+    }
+  },
+  "active": "2c8b9f824a67e35e",
+  "lastOpenFiles": [
+    "README.md",
+    "wiki/Eureka Labs.md",
+    "wiki/log.md.tmp.10168.1775715060739",
+    "wiki/卡帕西寶典 — 書籍設計.md",
+    "wiki/卡帕西寶典 — 書籍設計.md.tmp.10168.1775715042877",
+    "wiki/log.md.tmp.10168.1775714719202",
+    "wiki/Andrej Karpathy.md",
+    "wiki/職涯時間線 (Career Timeline).md",
+    "wiki/學術論文目錄 (Publications).md",
+    "wiki/開源專案目錄 (Open Source Projects).md",
+    "wiki/部落格文章目錄 (Blog Posts).md",
+    "wiki/神經網路訓練實務 (Neural Network Training).md",
+    "wiki/自動駕駛與 Tesla AI.md",
+    "wiki/大型語言模型 (Large Language Models).md",
+    "raw/karpathy-youtube.md",
+    "raw/karpathy-talks.md",
+    "raw/karpathy-publications.md",
+    "wiki/影像辨識與描述 (Vision and Captioning).md",
+    "wiki/影像辨識與描述 (Vision and Captioning).md.tmp.10168.1775714634782",
+    "wiki/軟體 2.0 (Software 2.0).md",
+    "wiki/軟體 2.0 (Software 2.0).md.tmp.10168.1775714600295",
+    "wiki/深度學習教育 (Deep Learning Education).md",
+    "wiki/深度學習教育 (Deep Learning Education).md.tmp.10168.1775714582239",
+    "wiki/開源專案目錄 (Open Source Projects).md.tmp.10168.1775714521369",
+    "wiki/演講與訪談目錄 (Talks and Interviews).md",
+    "wiki/演講與訪談目錄 (Talks and Interviews).md.tmp.10168.1775714505294",
+    "raw/karpathy-projects.md",
+    "raw/karpathy-courses.md",
+    "raw/karpathy-blog-posts.md",
+    "raw/karpathy-bio.md",
+    "CLAUDE.md",
+    "raw/karpathy-bio.md.tmp.10168.1775714278471",
+    "raw/assets",
+    "wiki/index.md",
+    "wiki/log.md",
+    "歡迎.md"
+  ]
+}

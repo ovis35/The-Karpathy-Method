@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "wiki/卡帕西寶典 — 書籍設計.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "卡帕西寶典 — 書籍設計"
             }
           }
         ]
@@ -185,10 +185,20 @@
   },
   "active": "2c8b9f824a67e35e",
   "lastOpenFiles": [
-    "README_zh.md",
-    "README_zh_The_Karpathy_Method.md",
+    "raw/karpathy-youtube.md",
+    "raw/karpathy-talks.md",
+    "raw/karpathy-publications.md",
+    "raw/karpathy-projects.md",
+    "raw/karpathy-courses.md",
+    "raw/karpathy-blog-posts.md",
+    "raw/karpathy-bio.md",
+    "wiki/自動駕駛與 Tesla AI.md",
+    "wiki/演講與訪談目錄 (Talks and Interviews).md",
     "wiki/卡帕西寶典 — 書籍設計.md",
     "README.md",
+    "README_zh.md",
+    "CLAUDE.md",
+    "README_zh_The_Karpathy_Method.md",
     "wiki/Eureka Labs.md",
     "wiki/log.md.tmp.10168.1775715060739",
     "wiki/卡帕西寶典 — 書籍設計.md.tmp.10168.1775715042877",
@@ -199,11 +209,7 @@
     "wiki/開源專案目錄 (Open Source Projects).md",
     "wiki/部落格文章目錄 (Blog Posts).md",
     "wiki/神經網路訓練實務 (Neural Network Training).md",
-    "wiki/自動駕駛與 Tesla AI.md",
     "wiki/大型語言模型 (Large Language Models).md",
-    "raw/karpathy-youtube.md",
-    "raw/karpathy-talks.md",
-    "raw/karpathy-publications.md",
     "wiki/影像辨識與描述 (Vision and Captioning).md",
     "wiki/影像辨識與描述 (Vision and Captioning).md.tmp.10168.1775714634782",
     "wiki/軟體 2.0 (Software 2.0).md",
@@ -211,13 +217,7 @@
     "wiki/深度學習教育 (Deep Learning Education).md",
     "wiki/深度學習教育 (Deep Learning Education).md.tmp.10168.1775714582239",
     "wiki/開源專案目錄 (Open Source Projects).md.tmp.10168.1775714521369",
-    "wiki/演講與訪談目錄 (Talks and Interviews).md",
     "wiki/演講與訪談目錄 (Talks and Interviews).md.tmp.10168.1775714505294",
-    "raw/karpathy-projects.md",
-    "raw/karpathy-courses.md",
-    "raw/karpathy-blog-posts.md",
-    "raw/karpathy-bio.md",
-    "CLAUDE.md",
     "raw/karpathy-bio.md.tmp.10168.1775714278471",
     "raw/assets",
     "wiki/index.md"

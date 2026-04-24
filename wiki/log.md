@@ -68,3 +68,15 @@
 
 ### 更新的頁面
 - `wiki/index.md` — 新增 Synthesis 分類
+
+## [2026-04-24] query | 卡帕西寶典 27 條原則補案例
+
+### 任務
+為「卡帕西寶典 — 書籍設計」中每章「可提煉的原則」區塊，各補一個「原則 × 案例」小節，共 9 章 27 條。
+
+### 修改的頁面
+- `wiki/卡帕西寶典 — 書籍設計.md` — 在第一至第九章各插入「原則 × 案例」小節；更新 frontmatter updated 為 2026-04-24
+
+### 案例來源依據
+- 所有案例均基於 vault 中可查的公開事件或作品（micrograd、nanoGPT、ImageNet 人機對決、A Recipe for Training Neural Networks、Software 2.0、Tesla AI Day、State of GPT、CS 231n、Zero to Hero、Eureka Labs 創辦論述）
+- 部分詮釋（如 Karpathy 的準備過程細節）屬 Claude Code 推論，已於頁面格式中標示為 *斜體案例*，非直接引文
